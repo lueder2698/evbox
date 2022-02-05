@@ -21,7 +21,7 @@ const debug = true;
 var mqttOptions = {
   clientId: "evbox01",
   username: "evbox",
-  password: "vZ7cT5Y@2Sv5",
+  password: "<password>",
   clean: true
 };
 var msgopt = {
